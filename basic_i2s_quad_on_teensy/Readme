@@ -1,0 +1,10 @@
+This is a basic 4 I2S MEMS mic testing code for teensy 4.1 to check if the connection are correct or not.
+It shows the Live Audio Input from the MICS onto the Serial Plotter of Arduino IDE. 
+Pin Configs. are :
+Mics     Teensy 4.1
+Vcc ---> 3V3
+GND ---> GND
+SCK ---> Pin 21
+WS  ---> Pin 20
+SD  ---> Pin 6 = Mic 1 & 2  and  Pin 8 = Mic 3 & 4.
+L/R ---> Mic 1 = GND , Mic 2 = Vcc , Mic 3 = GND , Mic 4 = Vcc
