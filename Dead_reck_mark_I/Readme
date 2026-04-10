@@ -1,0 +1,2 @@
+There are two files in this folder .ino file for ESP32 s3 supermini for complete implementation of Deduced Reckonaissance using MPU6050, BMP280 & BN220 GPS which transfers data using BLE.  
+The Python File is used for accepting the BLE data from esp32 using Bleak and visualize the results.
