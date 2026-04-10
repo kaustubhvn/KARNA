@@ -1,0 +1,2 @@
+This is a arduino code for setting up a LoRa Mesh Network with 2 or more nodes by chaning the single parameter in the code. 
+Also the SPI connections used in the code are re-mapped to different pins to match the PIN config. for the PCB of LoRa with Esp32.
